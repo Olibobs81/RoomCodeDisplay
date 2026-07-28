@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Project>
+    <PropertyGroup>
+        <!-- This points to where your game is located on your disk. -->
+        <GamePath>D:\Meta Horizon\Software\Software\another-axiom-gorilla-tag</GamePath>
+
+        <!-- This points to where Gorilla Tag holds it's code -->
+        <GameAssemblyPath>$(GamePath)\Gorilla Tag_Data\Managed</GameAssemblyPath>
+
+        <!-- This points to the references needed for BepInEx and MelonLoader -->
+        <DependenciesPath>Build\Dependencies</DependenciesPath>
+    </PropertyGroup>
+</Project>
