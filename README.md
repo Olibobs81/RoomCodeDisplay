@@ -1,4 +1,4 @@
-# Room Code Display
+<img width="1111" height="94" alt="image" src="https://github.com/user-attachments/assets/058921d2-1d59-463d-b357-891d4fd29c1b" /># Room Code Display
 
 A simple BepInEx mod for Gorilla Tag that shows your current room code on your desktop for OBS streaming.
 
@@ -16,3 +16,6 @@ A simple BepInEx mod for Gorilla Tag that shows your current room code on your d
 2. Download the latest release `.dll` from the [Releases](https://github.com/YourUsername/YourRepoName/releases) page.
 3. Create a folder inside of your `Gorilla Tag/BepInEx/plugins/` folder named `RoomCodeDisplay`
 4. Drop `RoomCodeDisplay.dll` into your newly created folder.
+
+## Disclaimer
+This product is not affiliated with Gorilla Tag or Another Axiom LLC and is not endorsed or otherwise sponsored by Another Axiom LLC. Portions of the materials contained herein are property of Another Axiom LLC. ©2021 Another Axiom LLC
