@@ -1,4 +1,4 @@
-<img width="1111" height="94" alt="image" src="https://github.com/user-attachments/assets/058921d2-1d59-463d-b357-891d4fd29c1b" /># Room Code Display
+# Room Code Display
 
 A simple BepInEx mod for Gorilla Tag that shows your current room code on your desktop for OBS streaming.
 
