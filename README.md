@@ -10,6 +10,13 @@ A simple BepInEx mod for Gorilla Tag that shows your current room code on your d
 ## Controls
 * **L3 + R3:** Toggle hidden state
 * **Left Click + Drag:** Move text
+* **M** Open Settings Menu
+
+## Customisation
+* Press **M** to open the settings menu
+* Here you can customize the font, colour and size of the text
+* By default the mod displays all fonts in `C:\Windows\Fonts`
+* To import custom fonts place your .ttf or .otf file inside of `\BepInEx\plugins\Fonts`
 
 ## Installation
 1. Make sure you have **BepInEx** installed for Gorilla Tag.
