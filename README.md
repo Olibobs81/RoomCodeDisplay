@@ -1,6 +1,6 @@
 # Room Code Display
 
-A simple BepInEx mod for Gorilla Tag that shows your current room code on your desktop for OBS streaming.
+A simple BepInEx mod for Gorilla Tag that shows your current room code on your desktop to be mainly used for streaming.
 
 ## Features
 * Shows on desktop, hidden inside your headset
@@ -19,3 +19,5 @@ A simple BepInEx mod for Gorilla Tag that shows your current room code on your d
 
 ## Disclaimer
 This product is not affiliated with Gorilla Tag or Another Axiom LLC and is not endorsed or otherwise sponsored by Another Axiom LLC. Portions of the materials contained herein are property of Another Axiom LLC. ©2021 Another Axiom LLC
+
+-# my first mod :)
