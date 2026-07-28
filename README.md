@@ -15,4 +15,4 @@ A simple BepInEx mod for Gorilla Tag that shows your current room code on your d
 1. Make sure you have **BepInEx** installed for Gorilla Tag.
 2. Download the latest release `.dll` from the [Releases](https://github.com/YourUsername/YourRepoName/releases) page.
 3. Create a folder inside of your `Gorilla Tag/BepInEx/plugins/` folder named `RoomCodeDisplay`
-4.. Drop `RoomCodeDisplay.dll` into your newly created folder.
+4. Drop `RoomCodeDisplay.dll` into your newly created folder.
