@@ -199,10 +199,13 @@ public class Main : BaseUnityPlugin
 
     private void Update()
     {
-        InputDevices.GetDeviceAtXRNode(XRNode.LeftHand).TryGetFeatureValue(CommonUsages.primary2DAxisClick, out bool leftStickClick);
-        InputDevices.GetDeviceAtXRNode(XRNode.RightHand).TryGetFeatureValue(CommonUsages.primary2DAxisClick, out bool rightStickClick);
+        if (ControllerInputPoller.instance == null) return;
 
-        bool isPressed = leftStickClick && rightStickClick;
+        // Check Secondary Buttons (Left Y + Right B pressed together)
+        bool leftY = ControllerInputPoller.instance.leftControllerSecondaryButton;
+        bool rightB = ControllerInputPoller.instance.rightControllerSecondaryButton;
+
+        bool isPressed = leftY && rightB;
 
         if (isPressed && !wasPressed)
         {
